@@ -1,10 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Title</title>
 </head>
 <body>
-$END$
+<script>
+  let a = [];
+  for(let i=2;i<=20;i++){
+    a[0] = 0;
+    a[1] = 1;
+    a[i] = a[i-1]+a[i-2];
+  }
+  let sum = 0;
+  for(let i=0;i<=20;i++){
+    sum += a[i];
+  }
+  document.write(sum);
+</script>
 </body>
 </html>

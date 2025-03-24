@@ -1,10 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Title</title>
 </head>
 <body>
-$END$
+<button onclick="myFunction()">Click Me</button>
+<script>
+    function myFunction() {
+        let a = parseInt(prompt("Bạn muốn đoán trong khoảng lớn nhất là"));
+        let b = Math.round(Math.random(a));
+        let c = parseInt(prompt("Số bạn đoán"));
+        let d=0;
+        while(d < 3) {
+            if (c == b) {
+                alert("Bạn đoán đúng");
+                break;
+            }
+            else if (c<b) {
+                c=parseInt(prompt("Số đó lớn hơn"));
+                d++
+            }
+            else if (c>b) {
+                c=parseInt(prompt("số đó nhỏ hơn"));
+                d++
+            }
+        }
+    }
+</script>
 </body>
 </html>

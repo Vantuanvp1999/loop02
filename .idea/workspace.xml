@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="add6c1df-a760-41d6-ae79-2b02bb53ba12" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/loop02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baiTap1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baiTap3.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baiTap4.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baiTap5.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baiTap6.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baiTap7.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baiTap8.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiTap8.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,9 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "disable.download.node.interpreter.editor.notification": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Module 1/if-else01",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -65,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741916340968</updated>
-      <workItem from="1741916342080" duration="697000" />
+      <workItem from="1741916342080" duration="10955000" />
     </task>
     <servers />
   </component>
